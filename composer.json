@@ -1,0 +1,12 @@
+{
+    "name": "julien-heng/julnite",
+    "authors": [
+        {
+            "name": "Julien Heng",
+            "email": "julienheng0@gmail.com"
+        }
+    ],
+    "require": {
+        "altorouter/altorouter": "^2.0"
+    }
+}
